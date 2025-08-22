@@ -23,6 +23,6 @@ Este projeto simula o monitoramento de sensores de temperatura em diferentes amb
     python main.py
 
 Funcionalidades
-# Adição de leituras de temperatura para diferentes sensores.
-# Alertas automáticos caso a leitura esteja fora dos limites definidos.
-# Relatório estatístico com mínimo, máximo, média e total de leituras.
+## Adição de leituras de temperatura para diferentes sensores.
+## Alertas automáticos caso a leitura esteja fora dos limites definidos.
+## Relatório estatístico com mínimo, máximo, média e total de leituras.
